@@ -11,5 +11,7 @@ With these changes the authentication is hooked up and ready to go.
 
 To determine which pages require authentication or not, use:
 - [Authorize]
+
 or
+
 - [AllowAanonymous]
