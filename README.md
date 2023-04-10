@@ -10,6 +10,6 @@ The only changes that need to be made and that you can see in the code added to 
 With these changes the authentication is hooked up and ready to go. 
 
 To determine which pages require authentication or not, use:
-[Authorize]
+- [Authorize]
 or
-[AllowAanonymous]
+- [AllowAanonymous]
